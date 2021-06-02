@@ -1,0 +1,124 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.dautrang {
+  background-color: pink;
+  color: purple;
+  text-align: center;
+  font-size: 50px;
+  border-style: solid;
+  border-color: rgb(102, 51, 153);
+  height: 200px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-radius: 10px;
+  margin-bottom: 2px;
+}
+.tabbar {
+  background-color: lightpink;
+  text-align: center;
+  margin-bottom: 5px;
+  border-style: solid;
+  border-radius: 7px;
+  border-color: rgb(102, 51, 153);
+}
+
+.contenttb {
+  display: inline-block;
+  text-align: center;
+  border-style: solid;
+  border-color: rgb(102, 51, 153);
+  border-radius: 3px;
+  padding: 2px 5px 2px 5px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.mainsection {
+  background-color: lightpink;
+  border-style: solid;
+  border-color: rgb(102, 51, 153);
+  border-radius: 7px;
+  padding: 1px 1px 1px 1px;
+  width: 900px;
+  margin-bottom: 20px;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: aut;
+}
+
+.section {
+  border-bottom: dotted;
+  margin: 5px 1px 5px 1px;
+  border-color: rgb(102, 51, 153);
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.namesection {
+  color: purple;
+}
+
+.item {
+  display: inline-block;
+  border-style: solid;
+  border-color: rgb(102, 51, 153);
+  border-radius: 5px;
+  overflow: hidden;
+  width: 33%;
+  height: 320px;
+  margin: 1px 2px 1px 2p;
+}
+.anhsp {
+  width: 100%;
+  box-sizing: content-box;
+  height: 250px;
+  padding-bottom: 5px;
+}
+.tensp {
+  padding-bottom: 5px;
+}
+.main {
+  display: inline-block;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.aside {
+  width: 250px;
+  background-color: lightpink;
+  display: inline-block;
+  vertical-align: top;
+  border-style: solid;
+  border-color: rgb(102, 51, 153);
+  border-radius: 7px;
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.nonborder {
+  border-style: none;
+}
+.nonpadding {
+  padding-bottom: 0px;
+}
+.footer {
+  background-color: lightpink;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  border-style: solid;
+  border-radius: 7px;
+  border-color: rgb(102, 51, 153);
+  margin-bottom: 25px;
+}
